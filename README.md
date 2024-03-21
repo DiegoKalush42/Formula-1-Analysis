@@ -18,6 +18,7 @@ There were  fourteen datasets obtained from the Ergast Developer API. However, t
 
 
 *Starting Position*  & *Finishing Position*
+
 ![image](https://github.com/DiegoKalush42/Formula-1-Analysis/assets/147668013/522f341f-43f1-40e1-bb61-eaa0c10ea141)
 
 ![image](https://github.com/DiegoKalush42/Formula-1-Analysis/assets/147668013/f823653f-fe10-4f59-bbfa-e0b12478f615)
@@ -40,4 +41,5 @@ Prioritize qualifying laps: Teams should focus on strategies and training that e
 Adopt conservative pit stop strategies: Opt for strategies that minimize risk during pit stops.
 
 **Technical Details**
+
 This analysis was conducted using Jupyter Notebooks, providing an interactive environment for data manipulation and visualization. Users interested in reviewing or extending this analysis can do so by accessing the provided Jupyter Notebooks.
